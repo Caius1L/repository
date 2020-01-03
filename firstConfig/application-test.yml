@@ -1,7 +1,7 @@
-demo:
+spring:
   config:
     profile:
-      env: dev
+      env: test
 
 lancheng:
   userName: lanchengtest

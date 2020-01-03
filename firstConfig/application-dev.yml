@@ -1,4 +1,4 @@
-demo:
+spring:
   config:
     profile:
       env: dev
