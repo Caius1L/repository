@@ -2,6 +2,7 @@ demo:
   config:
     profile:
       env: dev
+
 lancheng:
   userName: lanchengtest
   password: qqq1234
