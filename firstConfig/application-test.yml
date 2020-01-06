@@ -1,7 +1,3 @@
-spring:
-  config:
-    profile:
-      env: test
 
 lancheng:
   userName: lanchengtest

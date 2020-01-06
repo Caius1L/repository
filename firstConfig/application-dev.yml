@@ -1,7 +1,4 @@
-spring:
-  config:
-    profile:
-      env: dev
+
 lancheng:
   userName: lanchengdev
   password: qqq1234
