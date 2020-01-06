@@ -5,3 +5,4 @@ spring:
 lancheng:
   userName: lanchengouterdev
   password: qqq1234
+form: master
